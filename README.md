@@ -1,6 +1,6 @@
 # MyStore
 
-MyStore adalah sebuah aplikasi Flutter sederhana untuk menampilkan daftar produk dan detail produk. Aplikasi ini dibangun dengan menggunakan Flutter dan Material Design.
+MyStore amerupakan sebuah aplikasi Flutter sederhana untuk menampilkan daftar produk dan detail produk. Aplikasi ini dibangun dengan menggunakan Flutter dan Material Design.
 
 ## Fitur
 
